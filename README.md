@@ -1,4 +1,4 @@
-# hello-world
+# bam.py
 The script takes a BAM file input and removes low mapping quality reads with scores less than 12 and re-outputs a cleaned version.
 Runs on Python version 3.7 
 
